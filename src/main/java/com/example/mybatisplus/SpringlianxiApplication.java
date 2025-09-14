@@ -10,4 +10,6 @@ public class SpringlianxiApplication {
         SpringApplication.run(SpringlianxiApplication.class, args);
     }
 
+
+
 }
